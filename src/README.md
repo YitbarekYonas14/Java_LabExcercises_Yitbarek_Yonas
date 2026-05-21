@@ -245,16 +245,3 @@ Before you begin, make sure you have:
 | **JavaFX SDK** | 25.0.2 or higher | Download from [Gluon](https://gluonhq.com/products/javafx/) |
 | **MySQL Connector** | 9.6.0 | Included in `/lib` folder |
 
-### 📁 Important: Folder Structure Setup
-
-**Before cloning, you must create the correct folder structure:**
-
-```bash
-# Create the src folder (parent folder for all packages)
-mkdir src
-
-# Create the app package folder inside src
-mkdir -p src/app
-
-# Now clone the repository into this structure
-git clone https://github.com/YitbarekYonas14/Java_LabExcercise_Yitbarek_Yonas.git .
